@@ -130,5 +130,38 @@
     "desc": "\"🎵Chocolate... Chocolate... Chocolate... eu só quero chocolate🎵(Tim Maia)\"\npensa num classico, amado por todos. amendoim com cobertura de chocolate. uma sobremesa para toda a hora.",
     "img": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785883758165.webp",
     "thumb": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785883758165.webp"
+  },
+  {
+    "id": "p1785885490557",
+    "nome": "(PRODUTO REGISTRADO NA SECRETARIA DA AGRICULTURA DE LONDRINA, SIM 677)",
+    "sub": "Pururuca sabor limão",
+    "peso": "60g e 100g",
+    "fam": "salgado",
+    "famNome": "Frito e salgado",
+    "desc": "o Rei da roça está no pedaço. essa é a nossa Pururuca caipira \"REI DA ROÇA\", mais um produto fabricado pelo Amendoísio. com esse sabor azedinho do limão huummm, com aquela geladinha, fica completa a harmonia.\nnossa pururuca é de porco de verdade, frita, salgada e embalada na nossa unidade fábrica.\n\n",
+    "img": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785885129551.webp",
+    "thumb": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785885129551.webp"
+  },
+  {
+    "id": "p1785885828581",
+    "nome": "(PRODUTO REGISTRADO NA SECRETARIA DA AGRICULTURA DE LONDRINA, SIM 677)",
+    "sub": "Pururuca sabor tradicional",
+    "peso": "60g e 100g",
+    "fam": "salgado",
+    "famNome": "Frito e salgado",
+    "desc": "o Rei da roça está no pedaço. essa é a nossa Pururuca caipira \"REI DA ROÇA\", mais um produto fabricado pelo Amendoísio. nessa versão, temos o sabor tradicional, para quem gosta de apreciar o verdadeiro sabor da roça.\nnossa pururuca é de porco de verdade, frita, salgada e embalada na nossa unidade fábrica.",
+    "img": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785885403936.webp",
+    "thumb": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785885403936.webp"
+  },
+  {
+    "id": "p1785886080413",
+    "nome": "LONDRINA INSPECIONADO 677 SIM",
+    "sub": "",
+    "peso": "",
+    "fam": "salgado",
+    "famNome": "Frito e salgado",
+    "desc": "todos os nosso produtos de origem animal, possui registro junto a secretaria da agricultura de Londrina.\nNossa famosa pururuca é feita com muito amor e carinho, e com muito higiene também. todas as fichas técnicas foram elaborada pela Dr. Marta Cristina, médica veterinária e nossa responsável técnica.",
+    "img": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785885981984.webp",
+    "thumb": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785885981984.webp"
   }
 ]
