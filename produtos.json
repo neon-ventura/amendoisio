@@ -1,0 +1,134 @@
+[
+  {
+    "id": "p01",
+    "nome": "Amendoim Tradicional",
+    "sub": "Frito e salgado",
+    "peso": "50 g",
+    "fam": "salgado",
+    "famNome": "Frito e salgado",
+    "desc": "O clássico que começou tudo. Amendoim frito na hora e salgado no ponto certo — nem de menos, nem de mais. É o pacote que mais sai e o que a gente mais tem orgulho de fazer.",
+    "img": "/assets/p-tradicional.webp",
+    "thumb": "/assets/p-tradicional-t.webp"
+  },
+  {
+    "id": "p02",
+    "nome": "Amendoim com Alho",
+    "sub": "Frito e salgado",
+    "peso": "50 g",
+    "fam": "salgado",
+    "famNome": "Frito e salgado",
+    "desc": "Além do sabor, aqui tem alho de verdade. são lâminas de alho frito e salgado na medida. não é apenas aroma. Com aquele fundo marcante que gruda na memória. O preferido de quem gosta de sabor forte e de quem acompanha cerveja gelada.",
+    "img": "/assets/p-alho.webp",
+    "thumb": "/assets/p-alho-t.webp"
+  },
+  {
+    "id": "p03",
+    "nome": "Amendoim sabor Limão",
+    "sub": "Frito e salgado",
+    "peso": "50 g",
+    "fam": "salgado",
+    "famNome": "Frito e salgado",
+    "desc": "O toque cítrico que corta a gordura e faz você voltar no pacote. Frito, salgado e com limão na medida — refrescante sem perder o sal.",
+    "img": "/assets/p-limao.webp",
+    "thumb": "/assets/p-limao-t.webp"
+  },
+  {
+    "id": "p04",
+    "nome": "Ovinhos de Amendoim",
+    "sub": "Frito e salgado",
+    "peso": "40 g",
+    "fam": "salgado",
+    "famNome": "Frito e salgado",
+    "desc": "Amendoim envolvido numa casquinha de massa de polvilho, frito e salgado. Aquele que você abre para dividir e some antes de chegar na metade.",
+    "img": "/assets/p-ovinhos.webp",
+    "thumb": "/assets/p-ovinhos-t.webp"
+  },
+  {
+    "id": "p05",
+    "nome": "Crocante Tradicional",
+    "sub": "Assado e crocante",
+    "peso": "50 g",
+    "fam": "crocante",
+    "famNome": "Assado e crocante",
+    "desc": "Assado, não frito. A casquinha estala no dente e o sabor fica limpo, sem pesar. Para quem quer petiscar sem culpa e sem gordura escorrendo no dedo.",
+    "img": "/assets/p-croc-trad.webp",
+    "thumb": "/assets/p-croc-trad-t.webp"
+  },
+  {
+    "id": "p06",
+    "nome": "Crocante Picante",
+    "sub": "Assado e crocante",
+    "peso": "50 g",
+    "fam": "crocante",
+    "famNome": "Assado e crocante",
+    "desc": "Para quem gosta de pimenta. Arde na medida. muito leve de picância, esquenta a boca, mas deixa você sentir o amendoim. Assado e crocante, com a pimenta na casquinha.",
+    "img": "/assets/p-croc-picante.webp",
+    "thumb": "/assets/p-croc-picante-t.webp"
+  },
+  {
+    "id": "p07",
+    "nome": "Crocante Cebola e Salsa",
+    "sub": "Assado e crocante",
+    "peso": "50 g",
+    "fam": "crocante",
+    "famNome": "Assado e crocante",
+    "desc": "Tempero de casa na casquinha assada: cebola e salsa. Sabor de comida caseira em formato de petisco, para quem enjoa do salgado puro.",
+    "img": "/assets/p-croc-cebola.webp",
+    "thumb": "/assets/p-croc-cebola-t.webp"
+  },
+  {
+    "id": "p08",
+    "nome": "Crocante Churrasco",
+    "sub": "Assado e crocante",
+    "peso": "50 g",
+    "fam": "crocante",
+    "famNome": "Assado e crocante",
+    "desc": "O sabor da brasa em formato de petisco. Assado e crocante, com o defumado do churrasco. Combina com futebol, com roda de amigos e com quase tudo.",
+    "img": "/assets/p-croc-churras.webp",
+    "thumb": "/assets/p-croc-churras-t.webp"
+  },
+  {
+    "id": "p09",
+    "nome": "Caramelizado com Baunilha",
+    "sub": "Doce e crocante",
+    "peso": "50 g",
+    "fam": "doce",
+    "famNome": "Doce",
+    "desc": "Caramelizado com baunilha, aquele cheiro que toma a casa inteira. Doce, crocante e perigoso: você abre para experimentar um e acaba o pacote.",
+    "img": "/assets/p-caramelizado.webp",
+    "thumb": "/assets/p-caramelizado-t.webp"
+  },
+  {
+    "id": "p10",
+    "nome": "Amendoim Colorido",
+    "sub": "Confeitado",
+    "peso": "60 g",
+    "fam": "doce",
+    "famNome": "Doce",
+    "desc": "O confeito colorido que todo mundo lembra da infância. Casquinha doce e crocante por fora, amendoim inteiro por dentro. Sucesso garantido com criança e com festa. Aqui, é cada cor, o seu sabor.",
+    "img": "/assets/p-colorido.webp",
+    "thumb": "/assets/p-colorido-t.webp"
+  },
+  {
+    "id": "p11",
+    "nome": "Sabores do Brasil",
+    "sub": "Amendoim, uva-passa e castanha de caju",
+    "peso": "35 g",
+    "fam": "mix",
+    "famNome": "Mix",
+    "desc": "Amendoim, uva-passa e castanha de caju no mesmo pacote. O doce da passa com o salgado do amendoim e a castanha para fechar. Bom para o trabalho, para a estrada e para segurar a fome.",
+    "img": "/assets/p-mixnuts.webp",
+    "thumb": "/assets/p-mixnuts-t.webp"
+  },
+  {
+    "id": "p1785884132702",
+    "nome": "Amendoim Chocolate",
+    "sub": "Confeitado",
+    "peso": "",
+    "fam": "doce",
+    "famNome": "Doce",
+    "desc": "\"🎵Chocolate... Chocolate... Chocolate... eu só quero chocolate🎵(Tim Maia)\"\npensa num classico, amado por todos. amendoim com cobertura de chocolate. uma sobremesa para toda a hora.",
+    "img": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785883758165.webp",
+    "thumb": "https://raw.githubusercontent.com/neon-ventura/amendoisio/main/uploads/prod-1785883758165.webp"
+  }
+]
